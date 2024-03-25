@@ -42,12 +42,12 @@ Each of the seven sections has a series of rooms to complete, these rooms allowe
 <img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/cyberframeworks%20section.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Creating Users with Powershell <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+Each room has a series of 'Tasks' that are required to be completed. Some only require to be read, while others are more in depth and require practice to obtain the answers and move on to the next question. <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/cyberkillchaintasks.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Checking Users are shown in DC <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab3.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+Here is an example of a practical task: <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/taskexample.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
 Checking Users are shown in DC <br/>
