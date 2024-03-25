@@ -50,24 +50,27 @@ Here is an example of a practical task: <br/>
 <img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/taskexample.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Checking Users are shown in DC <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab3.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+Cyber Threat Intelligence Rooms: <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/cyberthreatintelligencerooms.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Checking Users are shown in DC <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab3.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+Network Security and Traffic Analysis Rooms: <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/networksecurityandtrafficanalysis.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Checking Users are shown in DC <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab3.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+Endpoint Security Monitoring Rooms: <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/endpointsecuritymonitoringf.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Checking Users are shown in DC <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab3.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+SIEM (Security Information and Event Management) Rooms: <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/securityinformationandeventmanagement.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
-Checking Users are shown in DC <br/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab3.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+Digital Forensic and Response Rooms: <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/digitalforensicand%20response.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
+<br />
+Phishing Rooms <br/>
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/phishing.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 </p>
 
