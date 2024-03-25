@@ -7,7 +7,7 @@
 This project consists of practicing the following:
 Monitoring and investigating alerts,configuring and managing security tools, developing and implementing IDS signatures. 
 This learning path is created by the team at TryHackMe - at the end of the journey, the reward is satisfaction and a cert to show your friends. 
-~ I have edited out the certificate number that should be present in the top right corner. 
+
 <img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/THM_SOC1CERT.png" height="60%" width="60%" alt="SOC Analyst 1 Certificate"/>
 ~ I have edited out the certificate number that should be present in the top right corner. 
 <br />
