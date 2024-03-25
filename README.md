@@ -1,10 +1,10 @@
 
 
-<h1>SOC Analyst Level 1</h1>
+<h1>SOC Analyst Level 1 - TryHackMe</h1>
 
  ###
 <h2>Description</h2>
-Project consists of practicing the following:
+This project consists of practicing the following:
 Monitoring and investigating alerts,configuring and managing security tools, developing and implementing IDS signatures. 
 This learning path is created by the team at TryHackMe - at the end of the journey, the reward is satisfaction and a cert to show your friends. 
 ~ I have edited out the certificate number that should be present in the top right corner. 
