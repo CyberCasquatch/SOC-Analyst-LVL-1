@@ -7,7 +7,7 @@
 Project consists of practicing the following:
 Monitoring and investigating alerts,configuring and managing security tools, developing and implementing IDS signatures. 
 This learning path is created by the team at TryHackMe - at the end of the journey, the reward is satisfaction and a cert to show your friends. 
-https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1RXQAHATMC.png
+<img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/THM-1RXQAHATMC.png" height="60%" width="60%" alt="SOC Analyst 1 Certificate"/>
 <br />
 
 
@@ -34,7 +34,7 @@ This is a broad overview of this learning path:
 5. Security Information and Event Management, how SIEM's work and the capabilities it provides for network visibility, log sources, and log ingestion. 
 6. Digital Forensics and Incident Response, basic DFIR concepts and the tools available for use in the incident response process. 
 7. Phishing, looking at the components involved with sending emails across the internet and how to analyse email headers. 
- <br/>
+<br/>
 <img src="https://github.com/vonagle/SOC-Analyst-LVL-1/blob/main/Allroomsoverview.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
